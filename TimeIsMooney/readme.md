@@ -1,5 +1,8 @@
 # USACO Gold: Time is Mooney
 
+<img width="858" height="845" alt="image" src="https://github.com/user-attachments/assets/b3619b59-eed7-434b-a53a-60a17897d6a8" />
+
+
 **Problem Link:** [USACO 2020 January Contest, Gold - Problem 1](https://usaco.org/index.php?page=viewproblem2&cpid=993)
 
 ### 🧠 Core Concept: Time-Expanded Graph (Unrolling Cycles)
